@@ -1,3 +1,4 @@
+"use clent";
 import Separator from './Separator';
 import MenuItem from './MenuItem';
 

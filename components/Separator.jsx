@@ -1,5 +1,5 @@
-import Image from "next/image";
 import React from 'react';
+import Image from "next/image";
 
 const Separator = ({bg = "white"}) => {
   const imgSrc = bg === "accent" ? "/assets/separator-accent.svg" : "/assets/separator-white.svg"

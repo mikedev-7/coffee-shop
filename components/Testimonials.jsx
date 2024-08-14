@@ -1,3 +1,5 @@
+"use client";
+
 // import swiper react components
 
 import {Swiper, SwiperSlide} from 'swiper/react';

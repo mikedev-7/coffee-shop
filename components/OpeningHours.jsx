@@ -1,3 +1,4 @@
+"use client";
 import Image from "next/image";
 import Separator from "./Separator";
 import Badge from "./Badge";
